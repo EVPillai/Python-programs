@@ -1,0 +1,6 @@
+
+
+Python recipes
+https://code.activestate.com/recipes/langs/python/
+
+https://docs.python.org/3/tutorial/
